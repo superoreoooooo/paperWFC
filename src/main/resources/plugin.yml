@@ -1,0 +1,4 @@
+name: paperWFC
+version: '${project.version}'
+main: win.oreo.paperwfc.PaperWFC
+api-version: 1.19
